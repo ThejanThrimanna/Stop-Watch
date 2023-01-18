@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Stop Watch</string>
+    <string name="channel_name">Notification</string>
+    <string name="channel_description">Test Notification</string>
+    <string name="timer">Timer</string>
+    <string name="completed">Completed</string>
+</resources>
